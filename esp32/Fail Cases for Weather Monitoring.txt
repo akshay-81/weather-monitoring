@@ -1,0 +1,11 @@
+Fail Cases for Weather Monitoring
+
+No wifi - Loss of rainfall in case of reset
+Can change wifi only after reset and old wifi unavailable
+Cannot find BMP when interfering with hardware/reset. Solve by disconnecting, reset and connecting back BMP
+Wind value failure after reset(alright after few seconds)/power change
+Time value after, loss of network till availability/reset, for few minutes
+altitude
+rainfall update every hour and day may differ according to network
+
+8470012256

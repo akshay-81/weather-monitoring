@@ -1,0 +1,23 @@
+Current consumption 
+
+esp 32 - 240mA
+bmp 280 - 50.6 µA
+wind sensor - 20mA
+rainfall - 3mA
+aht10 - 0.25 mA 
+gsm - 2A
+lcd - 30mA
+
+Total Current Consumption=240mA+0.0506mA+20mA+3mA+0.25mA+2000mA+30mA
+
+Total Current Consumption=240+0.0506+20+3+0.25+2000+30
+
+Total Current Consumption = 2293.3006 mA
+
+Total Current Consumption=2293.3006mA
+
+Total Current Consumption ≈ 2293.3 mA
+
+Total Current Consumption≈2293.3mA
+
+The total current consumption is approximately 2293.3 mA (or 2.2933 A).
