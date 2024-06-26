@@ -7,5 +7,3 @@ Wind value failure after reset(alright after few seconds)/power change
 Time value after, loss of network till availability/reset, for few minutes
 altitude
 rainfall update every hour and day may differ according to network
-
-8470012256
